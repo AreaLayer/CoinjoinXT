@@ -31,6 +31,12 @@ Structurally built on a  proposed transaction graph (PTG):
  - Use less block space thanks to the Taproot
  - More privacy between L1 and L2 using Lightning Network
 
+
+## Who use CoinjoinXT?
+
+- JoinMarket
+- Firebolt
+
 ## Architecture
 
 
