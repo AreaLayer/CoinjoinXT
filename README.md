@@ -23,7 +23,7 @@ Simple UI/UX
 
 **Strong**
 
-Structurally built on a  proposed transaction graph (PTG).
+Structurally built on a  proposed transaction graph (PTG):
 
  - Atomic
  - DOS-resistant
