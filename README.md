@@ -33,5 +33,7 @@ Structurally built on a  proposed transaction graph (PTG):
 
 ## Architecture
 
-TBD
+
+
+![image](https://github.com/AreaLayer/CoinjoinXT/assets/83122757/e20495cf-0d0b-492a-9768-4a7fb8f36108)
 
