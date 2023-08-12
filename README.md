@@ -33,7 +33,7 @@ Structurally built on a  proposed transaction graph (PTG):
  - 
 ## Architecture
 
-Users initiate a CoinJoinXT transaction by combining their inputs and outputs in a way that obscures individual ownership. This CoinJoinXT transaction is designed to use the capabilities of Taproot and PGT, allowing for intricate script conditions while maintaining privacy.
+Users initiate a CoinJoinXT transaction by combining their inputs and outputs in a way that obscures individual ownership. This CoinJoinXT transaction is designed to use the capabilities of Taproot and PTG, allowing for intricate script conditions while maintaining privacy.
 
 Taproot comes into play when these CoinJoinXT transactions are broadcasted to the Bitcoin network. The use of Taproot addresses ensures that the complex scripts within the transactions are hidden, making them appear like regular transactions. This enhances privacy by not revealing the specific conditions or smart contract logic involved.
 
