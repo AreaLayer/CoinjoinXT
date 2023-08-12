@@ -48,8 +48,6 @@ To further optimize and scale these transactions, Lightning Network channels can
 ![image](https://github.com/AreaLayer/CoinjoinXT/assets/83122757/e20495cf-0d0b-492a-9768-4a7fb8f36108)
 
 
-### Example
-
 **Scenario: Alice and Bob want to exchange Bitcoin privately and efficiently.**
 
 1. **Setup**:
