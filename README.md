@@ -30,13 +30,7 @@ Structurally built on a  proposed transaction graph (PTG):
  - Compatible with Coinswap
  - Use less block space thanks to the Taproot
  - More privacy between L1 and L2 using Lightning Network
-
-
-## Who use CoinjoinXT?
-
-- JoinMarket
-- Firebolt
-
+ - 
 ## Architecture
 
 Users initiate a CoinJoinXT transaction by combining their inputs and outputs in a way that obscures individual ownership. This CoinJoinXT transaction is designed to use the capabilities of Taproot and PGT, allowing for intricate script conditions while maintaining privacy.
