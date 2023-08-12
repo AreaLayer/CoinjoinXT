@@ -30,7 +30,7 @@ Structurally built on a  proposed transaction graph (PTG):
  - Compatible with Coinswap
  - Use less block space thanks to the Taproot
  - More privacy between L1 and L2 using Lightning Network
- - 
+
 ## Architecture
 
 Users initiate a CoinJoinXT transaction by combining their inputs and outputs in a way that obscures individual ownership. This CoinJoinXT transaction is designed to use the capabilities of Taproot and PTG, allowing for intricate script conditions while maintaining privacy.
@@ -39,7 +39,7 @@ Taproot comes into play when these CoinJoinXT transactions are broadcasted to th
 
 To further optimize and scale these transactions, Lightning Network channels can be utilized. Users can open payment channels and conduct off-chain transactions, enjoying instantaneous confirmations and reduced fees. This relieves the main Bitcoin network from congestion and benefits from the privacy-enhancing features of CoinJoinXT and Taproot.
 
-![image](https://github.com/AreaLayer/CoinjoinXT/assets/83122757/e20495cf-0d0b-492a-9768-4a7fb8f36108)
+![image](https://github.com/AreaLayer/CoinjoinXT/assets/135646455/27bc9bdb-7d38-46c7-b690-d401c3e0d019)
 
 
 **Scenario: Alice and Bob want to exchange Bitcoin privately and efficiently.**
