@@ -32,6 +32,7 @@ Structurally built on a  proposed transaction graph (PTG):
  - Compatible with Coinswap
  - Use less block space thanks to the Taproot
  - More privacy between L1 and L2 using Lightning Network
+ - LNVortex
 
 ## Architecture
 
@@ -58,6 +59,10 @@ To further optimize and scale these transactions, Lightning Network channels can
 -  **Taproot Integration**:
    - The CoinJoinXT transaction uses Taproot addresses for its outputs.
    - Each Taproot output contains a complex script condition that specifies the spending conditions. These conditions can include time locks, multisig requirements, or other advanced conditions.
+
+- **LNVortex**
+  
+  
 
 -  **Lightning Network Channel**:
    - Alice and Bob open a Lightning Network payment channel between them.
