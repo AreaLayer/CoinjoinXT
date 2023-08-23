@@ -61,7 +61,9 @@ To further optimize and scale these transactions, Lightning Network channels can
    - Each Taproot output contains a complex script condition that specifies the spending conditions. These conditions can include time locks, multisig requirements, or other advanced conditions.
 
 - **LNVortex**
-  
+
+   - Alice and Bob can open collaborative channels via Lighnting Network.
+   - With L1, they can make collaboration during mixing coins
   
 
 -  **Lightning Network Channel**:
