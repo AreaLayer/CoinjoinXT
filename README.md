@@ -86,9 +86,11 @@ To further optimize and scale these transactions, Lightning Network channels can
    - The Taproot addresses used in the transaction hide the complexity of the script conditions, improving overall privacy.
    - Lightning Network transactions are conducted off-chain, reducing the exposure of transaction details to the public blockchain.
 
+In this example, Alice and Bob use CoinJoinXT with Taproot and the Lightning Network to exchange Bitcoin privately and efficiently. They leverage the privacy benefits of CoinJoinXT and Taproot's script flexibility, while also taking advantage of Lightning Network's off-chain capabilities for instant and cost-effective transactions. This combination provides them with a secure, private, and scalable way to conduct their Bitcoin exchanges.
 
   ## CoinjoinXT VS other implementations
 
+´´´
   | Feature                   | Firebolt           | Joinstr            | Joinmarket         | Whirlpool          | Wasabi Wallet      |
 |---------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 | CoinJoin Type             | CoinJoinXT  | CoinJoin (Schnorr) | CoinJoin (Schnorr) | CoinJoin (Chaumian) | CoinJoin (Chaumian) |
@@ -101,7 +103,4 @@ To further optimize and scale these transactions, Lightning Network channels can
 | User Interface            | CLI                | CLI                | CLI/GUI            | GUI                | GUI                |
 | Open Source               | No                 | Yes                | Yes                | Yes                | Yes                |
 | Platform Support          | Windows, Linux     | Linux              | Linux, macOS, Windows | Linux, macOS, Windows | Linux, macOS, Windows |
-
-
-In this example, Alice and Bob use CoinJoinXT with Taproot and the Lightning Network to exchange Bitcoin privately and efficiently. They leverage the privacy benefits of CoinJoinXT and Taproot's script flexibility, while also taking advantage of Lightning Network's off-chain capabilities for instant and cost-effective transactions. This combination provides them with a secure, private, and scalable way to conduct their Bitcoin exchanges.
-
+```markdown
