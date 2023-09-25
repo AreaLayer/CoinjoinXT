@@ -90,16 +90,14 @@ In this example, Alice and Bob use CoinJoinXT with Taproot and the Lightning Net
 
   ## CoinjoinXT VS other implementations
 
-  | Feature                   | Firebolt           | Joinstr            | Joinmarket         | Whirlpool          | Wasabi Wallet      |
+  | Feature                   | Firebolt           | Joinstr            | Joinmarket         | Samourai       | Wasabi Wallet      |
 |---------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-| CoinJoin Type             | CoinJoinXT  | CoinJoin (Schnorr) | CoinJoin (Schnorr) | CoinJoin (Chaumian) | CoinJoin (Chaumian) |
-| Privacy Model             | Central Coordinator | Peer-to-Peer       | Peer-to-Peer       | Central Coordinator | Central Coordinator |
-| CoinJoin Fee               | Variable           | Variable           | Variable           | Variable           | Variable           |
+| CoinJoin Type             | CoinJoinXT          | SH_ALL and SH_ACP | CoinJoinXT          | Whirlpool         | ZK
+| Privacy Model             | Peer-to-Peer        | Peer-to-Peer       | Peer-to-Peer        Central Coordinator| Central Coordinator |
+| CoinJoin Fee              | Variable           | Variable           | Variable           | Variable           | Variable           |
 | Coin Selection Options    | Limited            | Customizable       | Customizable       | Customizable       | Customizable       |
 | Mixing Depth              | Fixed              | Customizable       | Customizable       | Fixed              | Fixed              |
-| Anonymity Set             | Limited            | High               | High               | Limited            | Limited            |
-| Confidential Transactions | Yes                | Yes                | Yes                | Yes                | Yes                |
+| Anonymity Set             | High               | High               | High               | High               | Limited            |
 | User Interface            | CLI                | CLI                | CLI/GUI            | GUI                | GUI                |
-| Open Source               | No                 | Yes                | Yes                | Yes                | Yes                |
-| Platform Support          | Windows, Linux     | Linux              | Linux, macOS, Windows | Linux, macOS, Windows | Linux, macOS, Windows |
+| Open Source               | Yes                | Yes                | Yes                | Yes                | Yes                |
 ```markdown
