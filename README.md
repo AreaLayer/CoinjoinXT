@@ -90,7 +90,6 @@ In this example, Alice and Bob use CoinJoinXT with Taproot and the Lightning Net
 
   ## CoinjoinXT VS other implementations
 
-´´´
   | Feature                   | Firebolt           | Joinstr            | Joinmarket         | Whirlpool          | Wasabi Wallet      |
 |---------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 | CoinJoin Type             | CoinJoinXT  | CoinJoin (Schnorr) | CoinJoin (Schnorr) | CoinJoin (Chaumian) | CoinJoin (Chaumian) |
