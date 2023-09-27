@@ -90,7 +90,6 @@ In this example, Alice and Bob use CoinJoinXT with Taproot and the Lightning Net
 
   ## CoinjoinXT VS other implementations
   
-```markdown
   | Feature                   | Firebolt           | Joinstr            | Joinmarket         | Samourai       | Wasabi Wallet      |
 |---------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 | CoinJoin Type             | CoinJoinXT          | SH_ALL and SH_ACP | CoinJoinXT          | Whirlpool         | ZK
@@ -102,3 +101,6 @@ In this example, Alice and Bob use CoinJoinXT with Taproot and the Lightning Net
 | User Interface            | GUI                | CLI/GUI            | CLI/GUI            | GUI                | GUI                |
 | Open Source               | Yes                | Yes                | Yes                | Yes                | Yes                |
 ```markdown
+```
+
+**Disclaimer**: Above we show as CoinJoinXT is different of other implementations
