@@ -89,7 +89,8 @@ To further optimize and scale these transactions, Lightning Network channels can
 In this example, Alice and Bob use CoinJoinXT with Taproot and the Lightning Network to exchange Bitcoin privately and efficiently. They leverage the privacy benefits of CoinJoinXT and Taproot's script flexibility, while also taking advantage of Lightning Network's off-chain capabilities for instant and cost-effective transactions. This combination provides them with a secure, private, and scalable way to conduct their Bitcoin exchanges.
 
   ## CoinjoinXT VS other implementations
-
+  
+``markdown
   | Feature                   | Firebolt           | Joinstr            | Joinmarket         | Samourai       | Wasabi Wallet      |
 |---------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 | CoinJoin Type             | CoinJoinXT          | SH_ALL and SH_ACP | CoinJoinXT          | Whirlpool         | ZK
