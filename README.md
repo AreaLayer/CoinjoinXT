@@ -90,7 +90,7 @@ In this example, Alice and Bob use CoinJoinXT with Taproot and the Lightning Net
 
   ## CoinjoinXT VS other implementations
   
-``markdown
+```markdown
   | Feature                   | Firebolt           | Joinstr            | Joinmarket         | Samourai       | Wasabi Wallet      |
 |---------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
 | CoinJoin Type             | CoinJoinXT          | SH_ALL and SH_ACP | CoinJoinXT          | Whirlpool         | ZK
