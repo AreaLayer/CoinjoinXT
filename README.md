@@ -92,7 +92,7 @@ In this example, Alice and Bob use CoinJoinXT with Taproot and the Lightning Net
   
   | Feature                   | Firebolt           | Joinstr            | Joinmarket         | Samourai       | Wasabi Wallet      |
 |---------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-| CoinJoin Type             | CoinJoinXT         | SH_ALL and SH_ACP  | CoinJoinXT         | Whirlpool          | ZK
+| CoinJoin Type             | CoinJoinXT         | SH_ALL and SH_ACP  | CoinJoinXT         | Whirlpool          | Zero Link
 | Privacy Model             | P2P                | P2P                | P2P                | Central Coordinator| Central Coordinator|
 | CoinJoin Fee              | Variable           | Variable           | Variable           | Variable           | Variable           |
 | Coin Selection Options    | Limited            | Customizable       | Customizable       | Customizable       | Customizable       |
