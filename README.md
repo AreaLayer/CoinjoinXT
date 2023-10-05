@@ -95,8 +95,6 @@ In this example, Alice and Bob use CoinJoinXT with Taproot and the Lightning Net
 | Anonymity Set             | High               | High               | High               | High               | Limited            | ?                  | 
 | User Interface            | GUI                | CLI/GUI            | CLI/GUI            | GUI                | GUI                | ?                  | 
 | Open Source               | Yes                | Yes                | Yes                | Yes                | Yes                | ?                  | 
-
-I've added placeholders for "Mutiny Wallet" and "LN Vortex" in the table, but I couldn't provide specific information about them as they are not part of my knowledge base as of my last update in September 2021. You may need to research and fill in the details for these two entries based on the latest information available.
 ```
 
 **Disclaimer**: Above we show as CoinJoinXT is different of other implementations
