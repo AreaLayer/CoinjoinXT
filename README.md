@@ -84,17 +84,19 @@ In this example, Alice and Bob use CoinJoinXT with Taproot and the Lightning Net
 
   ## CoinjoinXT VS other implementations
   
-  | Feature                   | Firebolt           | Joinstr            | Joinmarket         | Samourai       | Wasabi Wallet      |
-|---------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-| CoinJoin Type             | CoinJoinXT         | SH_ALL and SH_ACP  | CoinJoinXT         | Whirlpool          | Zero Link
-| Privacy Model             | P2P                | P2P                | P2P                | Central Coordinator| Central Coordinator|
-| CoinJoin Fee              | Variable           | Variable           | Variable           | Variable           | Variable           |
-| Coin Selection Options    | Limited            | Customizable       | Customizable       | Customizable       | Customizable       |
-| Mixing Depth              | Fixed              | Customizable       | Customizable       | Fixed              | Fixed              |
-| Anonymity Set             | High               | High               | High               | High               | Limited            |
-| User Interface            | GUI                | CLI/GUI            | CLI/GUI            | GUI                | GUI                |
-| Open Source               | Yes                | Yes                | Yes                | Yes                | Yes                |
-```markdown
+
+| Feature                   | Firebolt           | Joinstr            | Joinmarket         | Samourai       | Wasabi Wallet      | Mutiny Wallet | 
+|---------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
+| CoinJoin Type             | CoinJoinXT         | SH_ALL and SH_ACP  | CoinJoinXT         | Whirlpool          | Zero Link          | LN Vortex          | 
+| Privacy Model             | P2P                | P2P                | P2P                | Central Coordinator| Central Coordinator| P2P                |
+| CoinJoin Fee              | Variable           | Variable           | Variable           | Variable           | Variable           | ?                  | 
+| Coin Selection Options    | Limited            | Customizable       | Customizable       | Customizable       | Customizable       | ?                  |
+| Mixing Depth              | Fixed              | Customizable       | Customizable       | Fixed              | Fixed              | ?                  |
+| Anonymity Set             | High               | High               | High               | High               | Limited            | ?                  | 
+| User Interface            | GUI                | CLI/GUI            | CLI/GUI            | GUI                | GUI                | ?                  | 
+| Open Source               | Yes                | Yes                | Yes                | Yes                | Yes                | ?                  | 
+
+I've added placeholders for "Mutiny Wallet" and "LN Vortex" in the table, but I couldn't provide specific information about them as they are not part of my knowledge base as of my last update in September 2021. You may need to research and fill in the details for these two entries based on the latest information available.
 ```
 
 **Disclaimer**: Above we show as CoinJoinXT is different of other implementations
