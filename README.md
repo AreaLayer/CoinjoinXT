@@ -96,5 +96,3 @@ In this example, Alice and Bob use CoinJoinXT with Taproot and the Lightning Net
 | User Interface            | GUI                | CLI/GUI            | CLI/GUI            | GUI                | GUI                | ?                  | 
 | Open Source               | Yes                | Yes                | Yes                | Yes                | Yes                | ?                  | 
 ```
-
-**Disclaimer**: Above we show as CoinJoinXT is different of other implementations
