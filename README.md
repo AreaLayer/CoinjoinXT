@@ -94,5 +94,5 @@ In this example, Alice and Bob use CoinJoinXT with Taproot and the Lightning Net
 | Mixing Depth              | Fixed              | Customizable       | Customizable       | Fixed              | Fixed              | ?                  |
 | Anonymity Set             | High               | High               | High               | High               | Limited            | ?                  | 
 | User Interface            | GUI                | CLI/GUI            | CLI/GUI            | GUI                | GUI                | ?                  | 
-| Open Source               | Yes                | Yes                | Yes                | Yes                | Yes                | ?                  | 
+| Open Source               | Yes                | Yes                | Yes                | Yes                | Yes                | Yes                | 
 ```
