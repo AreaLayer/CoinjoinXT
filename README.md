@@ -60,12 +60,6 @@ To further optimize and scale these transactions, Lightning Network channels can
    - The CoinJoinXT transaction uses Taproot addresses for its outputs.
    - Each Taproot output contains a complex script condition that specifies the spending conditions. These conditions can include time locks, multisig requirements, or other advanced conditions.
 
-- **LNVortex**
-
-   - Alice and Bob can open collaborative channels via Lighnting Network.
-   - With L1, they can make collaboration during mixing coins
-  
-
 -  **Lightning Network Channel**:
    - Alice and Bob open a Lightning Network payment channel between them.
    - This channel is funded with a certain amount of Bitcoin from both parties.
