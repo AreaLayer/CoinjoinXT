@@ -8,7 +8,7 @@ CoinJoinXT is non-custodial privacy technique which is closely related to CoinJo
 
 Source: [CoinjoinXT](https://en.bitcoin.it/wiki/CoinJoinXT)
 
-**Current Status - PUBLIC ALPHA**
+**Current Status - BETA (version 1)**
 
 ### What makes CoinjoinXT different
 
