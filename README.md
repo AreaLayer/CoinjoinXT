@@ -61,8 +61,9 @@ To further optimize and scale these transactions, Lightning Network channels can
 
 -  **Lightning Network Channel**:
    - Alice and Bob open a Lightning Network payment channel between them.
-   - This channel is funded with a certain amount of Bitcoin from both parties.
+   - This channel is funded with a certain amount ofartie Bitcoin from both ps.
    - The channel allows them to conduct multiple off-chain transactions without congesting the main Bitcoin network.
+   - Beyond before/after coinjoin round finalized the user can close/open channel, mixing still more UTXOs
 
 -  **Off-chain Transactions**:
    - Alice and Bob can now exchange Bitcoin instantly and privately using the Lightning Network.
