@@ -88,7 +88,7 @@ In this example, Alice and Bob use CoinJoinXT with Taproot and the Lightning Net
 Since 2023, the project was created, we already released:
 
 - [Firebolt](https://github.com/AreaLayer/FireBolt): First generation from wallet concept
-- [Firebolt React Native](https://github.com/AreaLayer/firebolt-react-native): Second generation from wallet for closer to be Real world
+- [Firebolt React Native](https://github.com/AreaLayer/firebolt-react-native): Second generation from wallet closer to be Real world
 - [Firebolt Electrum](https://github.com/AreaLayer/firebolt-electrum): Third generation and ready to test into Electrum wallet plugin
 
 ## CoinjoinXT VS other implementations
