@@ -90,7 +90,8 @@ Since 2023 that the project was created, we already released:
 - [Firebolt](https://github.com/AreaLayer/FireBolt): First generation from wallet concept
 - [Firebolt React Native](https://github.com/AreaLayer/firebolt-react-native): Second generation from wallet closer to be Real world
 - [Firebolt Electrum](https://github.com/AreaLayer/firebolt-electrum): Third generation and ready to test into Electrum wallet plugin
-- [Coinjoin ZK](https://github.com/AreaLayer/coinjoin-zk) - Study proposal for support zero knowledge/proof in coinjoin transactions 
+- [Coinjoin ZK](https://github.com/AreaLayer/coinjoin-zk) - Study proposal for support zero knowledge/proof in coinjoin transactions
+- [Coinjoin Liquid](https://github.com/AreaLayer/coinjoin-liquid) - Study proposal for support Liquid with Coinjoin UTXOs
 
 ## CoinjoinXT VS other implementations
   
