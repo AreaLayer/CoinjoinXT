@@ -93,18 +93,4 @@ Since 2023 that the project was created, we already released:
 - [Coinjoin ZK](https://github.com/AreaLayer/coinjoin-zk) - Study proposal for support zero knowledge/proof in coinjoin transactions
 - [Coinjoin Liquid](https://github.com/AreaLayer/coinjoin-liquid) - Study proposal for support Liquid with Coinjoin transactions
 - [Coinjoin Statechain](https://github.com/AreaLayer/coinjoin-statechain) - Study proposal for support Statechain with Coinjoin transactions
-
-## CoinjoinXT VS other implementations
-  
-
-| Feature                   | Firebolt           | Joinstr            | Joinmarket         | Samourai       | Wasabi Wallet      | Mutiny Wallet | 
-|---------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-| CoinJoin Type             | CoinJoinXT (PTG)         | SH_ALL and SH_ACP  | CoinJoinXT (PTG)        | Whirlpool          | Zero Link          | LN Vortex          | 
-| Privacy Model             | P2P                | P2P                | P2P                | Central Coordinator/Self hosted| Central Coordinator| P2P    |
-| CoinJoin Fee              | Variable           | Variable           | Variable           | Variable           | Variable           | ?                  | 
-| Coin Selection Options    | Limited            | Customizable       | Customizable       | Customizable       | Customizable       | ?                  |
-| Mixing Depth              | Fixed              | Customizable       | Customizable       | Fixed              | Fixed              | ?                  |
-| Anonymity Set             | High               | High               | High               | High               | Limited            | ?                  | 
-| User Interface            | GUI                | CLI/GUI            | CLI/GUI            | CLI/GUI            | GUI                | ?                  | 
-| Open Source               | Yes                | Yes                | Yes                | Yes                | Yes                | Yes                | 
-```
+- [Firebolt React Native](https://github.com/AreaLayer/firebolt-react-native): Integration with Silent Payments and Breez SDK with Lightning Network/Liquid network
