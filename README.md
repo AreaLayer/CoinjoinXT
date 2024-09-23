@@ -134,3 +134,4 @@ Since 2023 that the project was created, we already released:
 - [Coinjoin Statechain](https://github.com/AreaLayer/coinjoin-statechain) - Study proposal for support Statechain with Coinjoin transactions
 - [Firebolt React Native](https://github.com/AreaLayer/firebolt-react-native): Integration of Silent Payments/Breez SDK with Lightning Network/Liquid network
 - [Firebolt React Native](https://github.com/AreaLayer/firebolt-react-native): Integration with ZK proof
+- [Firebolt Electrum](https://github.com/AreaLayer/firebolt-electrum): Integration with ZK proof ready to mainnet/signet/testnet
