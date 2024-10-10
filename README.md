@@ -135,3 +135,6 @@ Since 2023 that the project was created, we already released:
 - [Firebolt React Native](https://github.com/AreaLayer/firebolt-react-native): Integration of Silent Payments/Breez SDK with Lightning Network/Liquid network
 - [Firebolt React Native](https://github.com/AreaLayer/firebolt-react-native): Integration with ZK proof
 - [Firebolt Electrum](https://github.com/AreaLayer/firebolt-electrum): Integration with ZK proof ready to mainnet/signet/testnet
+- [Firebolt React Native](https://github.com/AreaLayer/firebolt-react-native): Integration with submarine swaps and more
+- [ZK Proof Rust](https://github.com/AreaLayer/zk-proof-rust): Library for ZK Proof written in Rust and ready to 2025
+- [Demo ZK Snarks Quantum](https://github.com/AreaLayer/demo-zksnarks-quantum): First research of P2P Coinjoin to post quantum world
